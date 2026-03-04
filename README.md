@@ -3,6 +3,8 @@
 <div align="center">
   <img src="images/projects/portfolio.jpg" alt="Portfolio Preview" width="800" style="border-radius: 10px;">
   
+  <h3><a href="https://aghara-mitul.netlify.app/">🔗 Live Preview</a></h3>
+  
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
